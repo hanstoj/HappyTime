@@ -1,2 +1,6 @@
 .search {
     align-self: center;
+}
+.cover-photo{
+    background-image: url(img/orange.jpg);
+}
